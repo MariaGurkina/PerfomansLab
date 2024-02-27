@@ -1,0 +1,6 @@
+rootProject.name = 'PerfomansLab'
+include 'Task1'
+include 'Task2'
+include 'Task3'
+include 'Task4'
+
